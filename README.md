@@ -1,7 +1,10 @@
 # Bystry.cfg
 Bystry's ET cfg 
 
+With Modus Operandi Spawn Script / Spawn Timer. 
+
 Copy all files to your legacy/etpro directory. 
+
 Spawn points are selected by: arrows.
 
 Left arrow: CP.
