@@ -1,6 +1,8 @@
 # Bystry.cfg
 Bystry's ET cfg 
 
+VERY LOW QUALITY GRAPHICS AND SOUNDS.
+
 With Modus Operandi Spawn Script / Spawn Timer. 
 
 Copy all files to your legacy/etpro directory. 
