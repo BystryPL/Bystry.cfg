@@ -1,0 +1,33 @@
+hudDef {
+	hud {
+		hudnumber 5 //          x       y       w       h       s       v	sc	r	g	b	a
+		compass			280	403	100	100	0	1	0.19	1	1	1	1
+		staminabar		275     405	12	72	0	1	0.19	1	1	1	1
+		breathbar		280     405	12	72	0	1	0.19	1	1	1	1
+		healthbar		352     405	12	72	0	1	0.19	1	1	1	1
+		weaponchargebar		361     405	12	72	0	1	0.19	1	1	1	1
+		healthtext		270     390	0	0	0	1	0.35	1	0.5	0	1
+		xptext			620     470	0	0	0	1	0.25	1	1	1	1
+		ranktext		610	470	0	0	0	1	0.20	1	1	1	1
+		statsdisplay		630     405	0	0	1	1	0.25	1	1	1	1
+		weaponicon		360     340	60	32	0	1	0.19	1	1	1	1
+		weaponammo		390     390	0	0	0	1	0.35	0	1	1	1
+		fireteam		400	-14	100	100	0	1	0.19	1	1	1	1
+		popupmessages		4	70	72	72	0	1	0.19	1	1	1	1
+		powerups		400	420	45	45	0	1	0.19	1	1	1	1
+		objectives		200	420	45	45	0	1	0.19	1	1	1	1
+		hudhead			44	388	62	80	0	0	0.19	1	1	1	1
+		cursorhints		296	260	48	48	0	1	0.19	1	1	1	1
+		weaponstability		50	208	10	64	0	1	0.19	1	1	1	1
+		livesleft		0	0	0	0	0	1	0.19	1	1	1	1
+		reinforcement		335     335	0	0	0	1	0.30	0	0.5	1	1
+		roundtimer		310	353	0	0	0	1	0.21	1	1	1	1
+		spawntimer		315	335	0	0	0	1	0.30	1	0	0	1
+		localtime		315	11	0	0	0	1	0.24	1	0.6	1	1
+		votetext		8	224	0.22	0.22	1	1	0.19	1	1	1	1
+		spectatortext		8	188	0.22	0.22	1	1	0.19	1	1	1	1
+		limbotext		8	164	0.22	0.22	1	1	0.19	1	1	1	1
+		followtext		8	164	0.22	0.22	1	1	0.19	1	1	1	1
+		demotext		0	9	0.22	0.22	1	1	0.22	1	0	0	1
+	}
+}
