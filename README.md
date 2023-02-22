@@ -1,11 +1,9 @@
 # Bystry.cfg
-Bystry's ET cfg 
+Bystry's ETL cfg 
 
-VERY LOW QUALITY GRAPHICS AND SOUNDS.
+With Modus Operandi Spawn Script
 
-With Modus Operandi Spawn Script / Spawn Timer. 
-
-Copy all files to your legacy/etpro directory - for legacy mod delete all b_ CVARs from bystry.cfg.
+This config is for Legacy mod and client only.
 
 Spawn points are selected by: arrows.
 
@@ -13,6 +11,5 @@ Left arrow: CP.
 Up arrow: forward spawn.
 Down arrow: Rear spawn.
 
-Enemy spawn times are selected by: numeric keyboard.
 ETPro's style spawntimer: MOUSE4.
 Configurate binds for spawn times and spawn points and dynamite timer in mo.cfg.
